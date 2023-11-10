@@ -19,11 +19,11 @@ Estimated time to complete core lab exercise: **60 min**
 
 ## Level Up
 
-🚀 [Level Up](./level-up/README.md) tktk - remove section if no level ups 
+🚀 [Level Up](./level-up/README.md)
 
 ## Solution code
 
-🏁 [tktk Solution code](#tktk-external-repo-link-url)
+🏁 [Solution code](https://git.generalassemb.ly/modular-curriculum-all-courses/intro-to-express-lab-solution)
 
 ## Internal resources
 
