@@ -7,7 +7,7 @@ Open your Terminal application and navigate to your **`~/code/ga/labs`** directo
 cd ~/code/ga/labs
 ```
 
-Make a new directory called **`intro-to-express-lab`**, then enter this directory:
+Make a new directory called **`intro-to-express-lab`**, then enter this directory and initialize the project:
 
 ```bash
 mkdir intro-to-express-lab
@@ -17,7 +17,7 @@ npm init -y
 npm install express
 ```
 
-With the directory created, open the contents of the directory in VS Code:
+With the initialization completed, open the contents of the directory in VS Code:
 
 ```bash
 code .
