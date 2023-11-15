@@ -24,12 +24,12 @@ This route accepts requests at `/collectibles/<index-parameter>` matching routes
 
 In this route, use the following array of collectibles:
 
-```js
+```javascript
 const collectibles = [
-    {name: "shiny ball", price: 5.95},
-    {name: "autographed picture of a dog", price: 10},
-    {name: "vintage 1970s yogurt SOLD AS-IS", price: 0.99}
-]
+  { name: 'shiny ball', price: 5.95 },
+  { name: 'autographed picture of a dog', price: 10 },
+  { name: 'vintage 1970s yogurt SOLD AS-IS', price: 0.99 }
+];
 ```
 
 VALIDATION ALERT: If the given index would not land in the existing array, send a response to the user saying "This item is not yet in stock. Check back soon!"
