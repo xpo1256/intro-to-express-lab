@@ -1,4 +1,4 @@
-# ![[Intro to Express Lab]](./assets/tktk-hero.png)
+# ![Intro to Express Lab](./assets/hero.png)
 
 ## About
 
