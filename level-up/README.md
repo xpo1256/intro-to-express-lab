@@ -14,13 +14,7 @@ app.get('/hello', (req, res) => {
 });
 ```
 
-> 🧠 If we were to `console.log` the `req.query` object, we would see an object that looks like this:
-> ```js
-> {
-    >   name: "Christy",
-    >   age: "32"
-> };
-> ```
+> 🧠 If we were to `console.log` the `req.query` object, we would see an object that looks like this; `{ name: "Christy", age: "32" }`
 
 ### Challenge: Query Params
 
