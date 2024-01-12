@@ -17,7 +17,7 @@ In this section, you practice using query parameters to pass information from th
   ```
   > 🧠 The `req.query` object contains the query parameters. For instance, `{ name: "Christy", age: "32" }`.
 
-### 1. Filter Shoes by Query Parameters
+### Filter Shoes by Query Parameters
 
 - **Data Array**:
 ```js
