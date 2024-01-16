@@ -17,10 +17,6 @@ Estimated time to complete core lab exercise: **60 min**
 - [Setup](./setup/README.md)
 - [Exercise](./exercise/README.md)
 
-## Level Up
-
-🚀 [Query Params](./level-up/README.md)
-
 ## Solution code
 
 🏁 [Solution code](https://git.generalassemb.ly/modular-curriculum-all-courses/intro-to-express-lab-solution)
