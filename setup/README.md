@@ -10,15 +10,14 @@ cd ~/code/ga/labs
 
 Navigate to [GitHub](https://github.com/) and create a new repository named **intro-to-express-lab**.
 
-  - Make sure the repo is set to `public`
-  - You do not need a `README.md`
-  - You do not need a `.gitignore`
-
+- Make sure the repo is set to `public`
+- You do not need a `README.md`
+- You do not need a `.gitignore`
 
 Using the `Quick Setup` option, clone your newly created repo into your `~/code/ga/labs` directory with the `git clone` command:
 
 ```bash
-git clone https://git.generalassemb.ly/<your-username>/intro-to-express-lab.git
+git clone https://github.com/<your-username>/intro-to-express-lab.git
 ```
 
 > Note: In the link above, where it says `<your-username>`, you should see the username from your GitHub account.
