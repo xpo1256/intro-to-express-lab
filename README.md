@@ -2,7 +2,7 @@
 
 ## About
 
-This lab practices defining route url patterns in Express, including url parameters, and sending responses to the client.
+This lab practices defining route URL patterns in Express, including URL parameters, and sending responses to the client.
 
 ## Prerequisites
 
