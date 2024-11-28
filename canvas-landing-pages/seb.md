@@ -1,9 +1,11 @@
-# ![Intro to Express Lab](../assets/hero.png)
+<h1>
+  <span class="prefix"></span>
+  <span class="headline">Intro to Express Lab</span>
+</h1>
 
 ## About
 
 This lab practices defining route URL patterns in Express, including URL parameters, and sending responses to the client.
-
 
 ## Content
 

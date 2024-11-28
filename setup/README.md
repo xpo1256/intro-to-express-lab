@@ -1,4 +1,7 @@
-# ![Intro to Express Lab - Setup](./assets/hero.png)
+<h1>
+  <span class="headline">Intro to Express Lab</span>
+  <span class="subhead">Setup</span>
+</h1>
 
 ## Setup
 
